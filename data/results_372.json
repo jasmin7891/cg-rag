@@ -1,0 +1,1490 @@
+[
+  {
+    "question_id": 1,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 1,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 1,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 1,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 2,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 2,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 2,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 2,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 3,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 3,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 3,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 3,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 4,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 4,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 4,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "がんに関する各種指定医療機関、がんに関する相談 - 横浜市\nがん患者やご家族、あるいは地域の方々からのがんに関するご相談を無料でお受けする窓口で、がん診療連携拠点病院や神奈川県がん診療連携指定病院に設置 ..."
+  },
+  {
+    "question_id": 4,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 5,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "大腸がんは、大腸（結腸・直腸）に発生するがんで、日本人ではS状結腸と直腸にできやすいといわれています。早期の段階では自覚症状はほとんどありませんが、進行すると便に血が混じる（血便や下血）、便の表面に血液が付着するなどの症状が現れます。検査では、直腸指診や注腸造影検査、大腸内視鏡検査を行い、がんかどうかを確定します。治療には内視鏡治療、手術（外科治療）、薬物療法、免疫療法、放射線治療などがあります。治療後は定期的に通院して検査を受け、がんのステージや治療法によって検査頻度が決定されます。"
+  },
+  {
+    "question_id": 5,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "大腸がんは、大腸（結腸・直腸）に発生するがんで、日本人ではS状結腸と直腸にできやすいといわれています。腺腫という良性の腫瘍ががん化して発生するものと、正常な粘膜から直接発生するものがあります。早期の段階では自覚症状はほとんどありません。進行すると、便に血が混じる（血便や下血）、便の表面に血液が付着するなどの症状があらわれます。\n\n大腸がんが疑われた場合には、まず、直腸指診や注腸造影検査、大腸内視鏡検査を行い、がんかどうかを確定します。\n\n大腸がんの治療には、内視鏡治療、手術（外科治療）、薬物療法、免疫療法、放射線治療などがあります。\n\n治療後は、定期的に通院して検査を受けます。検査を受ける頻度は、がんのステージ（病期）や治療法によって異なります。"
+  },
+  {
+    "question_id": 5,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "治療法には、内視鏡治療、手術、薬物療法、免疫療法、放射線治療があります。治療後は、定期的に通院して検査を受けます。 Insufficient information."
+  },
+  {
+    "question_id": 5,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "大腸がんの治療には、早期がんに対しては内視鏡治療で腸管を切除せずに根治切除が可能です。内視鏡治療には、ポリ白トミー、EMR、ESDといった3つの方法があります。I期からIII期の大腸がんは手術が基本ですが、低侵襲治療として、腹腔鏡補助下の手術やロボット支援下手術、補助療法として化学療法（抗がん剤治療）や放射線治療があります。また、大腸がんの治療には、薬物療法、免疫療法もあります。\n\n治療後の療養については、内視鏡治療を行ったあとは、主に大腸内視鏡を用いた定期検査を受けます。一方、手術を行ったあとは、治療後3年目までは、3カ月ごとの血液検査や6カ月ごとの画像検査（CT検査など）を受けます。"
+  },
+  {
+    "question_id": 6,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 6,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 6,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "手術や放射線治療、化学療法、光線力学的療法などが行われます。"
+  },
+  {
+    "question_id": 6,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "非小細胞肺がんの治療法は、病期やがんの位置、患者の体力などにより異なります。初期のⅠ、Ⅱ期の患者さんでは、がんを取り除くための手術が基本的な治療法となります。しかし、がんが広がっていて手術では取り除けない場合や、患者さんの体力が手術を許さない場合もあります。そのような場合、放射線治療でがんの治癒を目指すこともあります。また、手術の後に再発や転移を予防するために薬物療法を行うこともあります。さらに、中心部にありかつ小さいがんであれば、PDT（光線力学的療法）という治療も可能です。また、病期の進行度に応じて、手術や放射線治療と抗がん剤を組み合わせたり、あるいは抗がん剤単独での治療を行うこともあります。"
+  },
+  {
+    "question_id": 7,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "治療の選択についての情報は提供されていません。Insufficient information."
+  },
+  {
+    "question_id": 7,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 7,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 7,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "肝がんの治療は、がんの病期や肝臓の障害の程度、がんの進行の程度、肝予備能（肝臓の機能）などを考慮して選択されます。主な治療法には、肝臓を切除する手術療法、がんをラジオ波の熱で焼くラジオ波焼灼療法などがあります。また、がんの広がりや個数、大きさといったがんの状態と、肝機能がどのくらい保たれているかも治療の選択に影響します。肝外転移がある場合には薬物療法を選択することもありますし、Child-Pugh分類がCの場合は、肝移植が可能であれば肝移植、不可であれば緩和ケアを選択することもあります。"
+  },
+  {
+    "question_id": 8,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 8,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "食道がんの早期の場合には、口や肛門、尿道から内視鏡を挿入してがんを取り除く方法もあります。これを内視鏡治療と呼びます。手術の方法は、個々の状況に応じて最適な方法を検討します。手術を選択する場合は、医師の説明を十分に理解し、納得してから同意書にサインします。"
+  },
+  {
+    "question_id": 8,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "食道を温存できる内視鏡的切除が標準治療として推奨されています。"
+  },
+  {
+    "question_id": 8,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "食道がんの0期の治療法は、主に内視鏡的切除が推奨されています。これは、がんがまだ粘膜にとどまっていてリンパ節への転移がない状態、つまり早期の食道がんに対して行われます。内視鏡的切除は、食道を温存することができる治療法で、食道がんの進行を防ぎます。"
+  },
+  {
+    "question_id": 9,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "治療法についてわからないことや疑問に思うことは、遠慮せずに医師に質問しましょう。治療法は、薬物療法、手術、放射線治療などがあります。それぞれの治療法は、がんの種類や進行度によって選択されます。治療法の選択は、担当医と家族、周りの方と話し合い、あなたの希望に合った方法を見つけることが大切です。治療が始まる前に、どのような副作用が起こる可能性があるのかについて、医療者に確認しておくことも重要です。治療後は、経過観察が行われ、体調の変化や再発の有無を確認するために通院することもあります。治療法の詳細については、医師に相談してください。"
+  },
+  {
+    "question_id": 9,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "がんの治療法は、がんや体の状態に合わせて選択されます。主な治療法には、手術、放射線治療、薬物療法などがあります。手術は、がん細胞を体から取り除く方法です。放射線治療は、がん細胞に放射線を当てて細胞を破壊する方法です。薬物療法は、薬を使ってがん細胞を攻撃する方法で、全身に対する治療として行われます。薬物療法には、化学療法、内分泌療法（ホルモン療法）、分子標的療法、免疫療法などがあります。これらの治療法は、一つだけを用いることもありますが、複数を組み合わせて用いることもあります。治療法の選択は、担当医が説明し、患者本人や家族と話し合って決定します。"
+  },
+  {
+    "question_id": 9,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "手術療法、放射線療法、化学療法（抗がん剤治療）の3つがん治療の主な方法です。"
+  },
+  {
+    "question_id": 9,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "がんの治療法には主に三つの方法があります。それらは「手術療法」、「化学療法（抗がん剤治療）」、「放射線療法」で、これらは「がん治療の3本柱」と言われています。手術療法や放射線療法は、がんが局所的に存在する場合に用いられます。一方、化学療法は薬物を用いてがんを治療します。また、免疫療法という方法もあり、これは患者さんの免疫の力を利用してがんを攻撃する方法です。これらの治療法は、がんの種類やステージ（病期）によって選択されます。"
+  },
+  {
+    "question_id": 10,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "免疫療法は、免疫ががん細胞を攻撃する力を保つ治療法です。効果が証明された免疫療法には、免疫チェックポイント阻害薬が使われます。これは、がん細胞を攻撃する免疫の力を強化し、がんを攻撃する働きをサポートします。治療が行えるがんの種類によって異なるため、担当医に相談してください。"
+  },
+  {
+    "question_id": 10,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "免疫療法は、がん細胞を攻撃する免疫システムの力を利用する治療法です。がん細胞は、免疫システムの一部であるT細胞にブレーキをかけることで、免疫システムががん細胞を排除しきれないことがあります。免疫療法では、このブレーキがかかるのを防ぐことで、免疫システムががん細胞を攻撃する力を保つことを目指します。\n\nしかし、現在の免疫療法には、治療効果や安全性が科学的に証明された「効果が証明された免疫療法」と、治療効果や安全性が科学的に証明されていない「効果が証明されていない免疫療法」があります。「効果が証明された免疫療法」は、まだ一部に限られています。\n\n「効果が証明された免疫療法」で使用する主な薬は、「免疫チェックポイント阻害薬」と呼ばれます。これは、免疫ががん細胞を攻撃する力を保つ（ブレーキがかかるのを防ぐ）薬です。しかし、治療が行えるがんの種類はそれぞれの免疫チェックポイント阻害薬によって異なるので、具体的な治療法は担当医に尋ねることが必要です。"
+  },
+  {
+    "question_id": 10,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "免疫療法は、患者さん自身の免疫の力を利用してがんを攻撃する治療法です。"
+  },
+  {
+    "question_id": 10,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "がんの免疫療法は、患者さん自身の免疫の力を利用してがんを攻撃する治療法です。この方法は、効果や安全性が科学的に証明されているものと、そうでないものがあります。免疫療法は、利用する免疫細胞等によりさまざまなものがありますが、大きく分けて「効果が証明された免疫療法」のほとんどが、T細胞ががん細胞を攻撃する力を保つものです。これは手術・抗がん剤・放射線治療の標準治療に次ぐ第4のがん治療とされています。"
+  },
+  {
+    "question_id": 11,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "治療法についてわからないことや疑問に思うことは、遠慮せずに医師に質問しましょう。 Insufficient information."
+  },
+  {
+    "question_id": 11,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "がんと診断された人は、以下の点に注意すべきです。まず、家族や周りの人に対して、民間療法を勧める前には情報をよく確かめることが重要です。インターネットでは手軽に情報を得ることができますが、医学的に信頼できない情報や誤った情報も存在します。そのため、「がんが消えた」などの派手なキャッチコピーのあるサイトや情報には注意が必要です。「私はこれで治った」などの経験者の話も、患者本人に当てはまるものとは限りません。また、治療法についてわからないことや疑問に思うことは、遠慮せずに医師に質問することが大切です。治療が始まる前に、どのような副作用が起こる可能性があるのかについて、医療者に確認しておくことも重要です。それによって、副作用が出たときの対応方法をあらかじめ考えておくことができます。"
+  },
+  {
+    "question_id": 11,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 11,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "がんと診断された人が注意すべきポイントは、まず、がん治療の影響は、副作用として全身や体の一部に現れたり、外見が変化したり、人によっては気持ちに影響することもあります。また、休養や睡眠を十分に確保しているのに疲れやだるさが取れない、眠れない、眠りが浅い、息苦しい症状が続く、痛みがある、熱が急に出たなどの症状がある場合は注意が必要です。さらに、自分の状態について知るために主治医に質問することも重要です。"
+  },
+  {
+    "question_id": 12,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "家族も心配やショックを受けることがあります。家族とよく話し合い、患者本人の希望や気持ちを尊重し、緩和ケアを提供することが大切です。"
+  },
+  {
+    "question_id": 12,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "がんと診断された家族を支えるためには、まず何かしてあげたい、良い治療があれば勧めたいという気持ちは自然なことです。しかし、民間療法を勧める前には情報をよく確かめることが重要です。インターネットでは手軽に情報を得ることができますが、医学的に信頼できない情報や誤った情報もありますので注意が必要です。また、患者本人にとっては、自分を気づかってくれる周りの人が大きな支えになります。困っていること、こうしたいと思うことなどがある場合は、身近な医療者に伝えることも大切です。また、病院に連絡した方がよいか迷ったとき、医師や看護師に直接相談しにくいことがあるときなどは、がんの相談窓口「がん相談支援センター」で相談することもできます。"
+  },
+  {
+    "question_id": 12,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "まずは、身近な人ががんになったときの接し方について三つの大切なポイントを解説します。 できるだけこれまで通りに接する. 身近な人ががんになったと ..."
+  },
+  {
+    "question_id": 12,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "家族ががんと診断された時の接し方については、以下のポイントが重要です。まず、家族は医療を行なう専門家ではないため、無理に答えを出してあげたり、専門家ではないからと対話を避けたりせず、患者に向き合って話を聞く姿勢が必要です。また、できるだけこれまで通りに接することが大切です。さらに、診察時に主治医に質問する事柄を、患者さんと一緒に整理するといったサポートを行うことがお勧めされています。その際、患者さんが話すことを、否定したり遮ったりしないように注意が必要です。"
+  },
+  {
+    "question_id": 13,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "- 医療費の負担を軽くする公的制度が存在する\n- 介護保険を利用することでサービスを受けられる\n- 自己負担が必要であり、所得の低い方や高額利用者には軽減措置がある\n- 医療費控除の対象となる費用がある\n- 介護サービスを受ける場合はケアプランを作成する必要がある"
+  },
+  {
+    "question_id": 13,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "- 介護保険: がんの治療が難しくなり、生活で何らかの介護が必要になった場合には、介護保険を申請することができます。介護保険では、被保険者が介護を必要としたときに、住民票のある市区町村に申請して要介護認定を受けることにより、サービスを利用できるようになります。\n- 自己負担: サービスを受けるためには1割の自己負担（65歳以上で一定以上の所得がある方は2割あるいは３割の自己負担）等が必要になります。ただし、所得の低い方や、1カ月の利用料が高額になった方については、別に負担の軽減措置が設けられています。\n- 医療費控除: 医師や歯科医師による診療（セカンドオピニオンも含む）または治療に伴う費用、通院交通費（ガソリン代や駐車料金は除く）、医師などの送迎費、入院時の部屋代（必要がある場合）や食事代、医療器具の購入費・賃借料などが医療費控除の対象となります。\n- 公的医療保険や所得税の医療費控除以外にも、治療が必要になった原因や障害の有無、家庭の状況、困窮の度合いなどの状況に応じて、医療費の負担を軽減する公的制度があります。"
+  },
+  {
+    "question_id": 13,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "- 高額療養費制度\n- 経済的理由による医療費負担軽減の事業\n- 高額ながん治療費の負担を軽減する制度\n- 医療費負担を軽減するしくみ"
+  },
+  {
+    "question_id": 13,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "- 高額療養費制度：1カ月のうちにかかった医療費の自己負担額が高額になった場合に、世帯ごとに決められる限度額を超えた部分が後日払い戻される制度。\n- 公的制度：経済的理由により適切な医療を受けることができない方に対し、無料または低額で診療を行う事業。申込方法や減免基準は、医療機関によって異なる。\n- がん支援制度：がんの治療で医療費や通院費、治療で休養した際の収入など治療費や生活費の負担を軽くする制度。高額療養費制度や傷病手当金、介護保険、障害年金などがある。"
+  },
+  {
+    "question_id": 14,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "がんの治療と仕事の両立するときに、役立つ制度について、教えてください。\n\nがんと仕事の両立に関する医療者への質問の例\n仕事をする上で気を付けることや、制限されることはありますか\n\nInsufficient information."
+  },
+  {
+    "question_id": 14,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 14,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "がんの治療と就労の両立支援を行う制度があり、例えばあなたの勤務情報を会社と共同で文書として作成して主治医に渡すことで、就労状況を考慮したアドバイスをもらったり ..."
+  },
+  {
+    "question_id": 14,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "がんの治療と仕事の両立支援を行う制度があり、それはあなたの勤務情報を会社と共同で文書として作成して主治医に渡すことで、就労状況を考慮したアドバイスをもらうことができます。また、介護や育児に関わる従業員向けのフレックスタイム制度や短時間勤務制度もあり、これらは病気の方についても、治療に際して利用できます。さらに、がん相談支援センターには、両立支援コーディネーター研修を受講した相談員が配置されており、病院内の体制整備や治療と仕事両立プランの支援も行っています。"
+  },
+  {
+    "question_id": 15,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 15,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 15,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "治療が進んでいく中で、これまで通り業務が行えなかったり、休職が必要になる場合もあるため、今後も相談ができる直属の上司などに伝えると良いでしょう。"
+  },
+  {
+    "question_id": 15,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "治療が進んでいく中で、これまで通り業務が行えなかったり、休職が必要になる場合もあるため、今後も相談ができる直属の上司などに伝えると良いでしょう。また、ご自身の今の状況と見通しを、先に伝えておくとよいでしょう。「がんの疑いがあり、正式な診断を待ちながら病院に通っている」こと、「いつごろ何が分かりそうか」などを伝えると良いでしょう。"
+  },
+  {
+    "question_id": 16,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 16,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 16,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "代替療法は効果がありません。"
+  },
+  {
+    "question_id": 16,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "信頼できる研究では、代替療法ががんの縮小や治癒に関して、通常の治療（手術、抗がん剤、放射線）よりも優れた効果を上げたことはありません。また、代替医療を選んだ場合、死亡するリスクは標準治療の2.5倍となったとの報告もあります。したがって、標準治療の方が効果があると言えます。"
+  },
+  {
+    "question_id": 17,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 17,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 17,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "線虫はがんを検出できます。"
+  },
+  {
+    "question_id": 17,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "はい、線虫はがんを検出することができます。"
+  },
+  {
+    "question_id": 18,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "肺がんの可能性があります。"
+  },
+  {
+    "question_id": 18,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 18,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "肺がんや気管支結核、肺結核、咽頭がん、肺塞栓を発症している可能性があるため、レントゲン検査やCT検査を受けてください。"
+  },
+  {
+    "question_id": 18,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 19,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 19,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 19,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "体重が9㎏も減少している場合、がんの可能性がある可能性があります。"
+  },
+  {
+    "question_id": 19,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "がんになると体重が減少することがありますが、その原因はがん細胞の増殖により身体が多くのエネルギーを消費するためです。しかし、体重が減少する原因は他にもあり、消化器の病気が原因になっている可能性もあります。体重が6～12ヵ月で4.5㎏以上の減少、あるいは同じ期間で5％以上の減少が見られる状態が「体重減少」とされています。あなたの状況は1か月で9㎏の減少という急激な体重減少であり、医学的に注意が必要とされています。したがって、がんの可能性も含めて医療機関での診察を受けることをお勧めします。"
+  },
+  {
+    "question_id": 20,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 20,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 20,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "インフルエンザへの抵抗力を高めるために、インフルエンザ予防接種を受けていることが望ましいと言えます。"
+  },
+  {
+    "question_id": 20,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "がん治療中の人は、免疫機能の低下が予想されるため、インフルエンザへの抵抗力を高めるためにインフルエンザ予防接種を受けることが望ましいと言えます。ただし、化学療法開始前（少なくとも2週間前）の接種が望ましいとされています。"
+  },
+  {
+    "question_id": 21,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 21,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 21,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 21,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 22,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 22,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 22,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 22,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "ニンニクにはがん細胞の増殖を抑制する可能性や、黒にんにくに含まれるS-アリスシステインが、がん細胞を退治するナチュラルキラー細胞の活動を活性化させる効果があるとされています。しかし、大腸がん発症に対するニンニク摂取やニンニクサプリメントの使用による影響は認められなかったとの研究結果もあります。したがって、ニンニクががんを治すとは一概には言えません。"
+  },
+  {
+    "question_id": 23,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 23,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 23,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "手術、放射線治療、化学療法"
+  },
+  {
+    "question_id": 23,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "グリオーマの治療には、手術、放射線治療、化学療法、交流電場療法があります。"
+  },
+  {
+    "question_id": 24,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "禁煙することによってがんになるリスクを下げることができます。"
+  },
+  {
+    "question_id": 24,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "はい、禁煙することによってがんになるリスクを下げることができます。"
+  },
+  {
+    "question_id": 24,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "はい、禁煙することによってがんになるリスクを下げることができます。"
+  },
+  {
+    "question_id": 24,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "はい、現在たばこを吸っている人でも、これから禁煙することによって、がんになるリスクを下げることができます。"
+  },
+  {
+    "question_id": 25,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "手術前からリハビリテーションスタッフと面識があることで、手術後のリハビリテーション医療も安心してスムーズに受けられる"
+  },
+  {
+    "question_id": 25,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "はい、がんのリハビリテーションは治療が始まる前に行われることがあります。例えば、手術前からリハビリテーションスタッフと面識を持つことで、手術後のリハビリテーション医療も安心してスムーズに受けられます。また、手術前から「呼吸リハビリテーション」を受けることで、手術後に起こりやすい肺炎を予防する効果があります。"
+  },
+  {
+    "question_id": 25,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "はい、治療が始まる前におこなわれることがあります。"
+  },
+  {
+    "question_id": 25,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "はい、がんのリハビリテーションは、治療が始まる前に行われることがあります。"
+  },
+  {
+    "question_id": 26,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 26,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 26,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "20代のうちに加入しておくと良いでしょう。"
+  },
+  {
+    "question_id": 26,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "将来に不安がある方や、医療費の支払いに不安を感じる人は、20代のうちにがん保険の保障内容や給付金について検討しておくと良いでしょう。また、収入や貯蓄が不安定な状態の20代こそがん保険に加入しておきたいとも言われています。"
+  },
+  {
+    "question_id": 27,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 27,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 27,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 27,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 28,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "運動によるリハビリテーション医療と栄養管理が重要であり、運動をすることによって身体機能が高まり、疲れにくくなることが期待されます。"
+  },
+  {
+    "question_id": 28,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "運動によるリハビリテーション医療と栄養管理が重要で、運動をすることによって身体機能が高まり、疲れにくくなるとされています。"
+  },
+  {
+    "question_id": 28,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "無理な運動は逆効果になることもあります。"
+  },
+  {
+    "question_id": 28,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "がんを患っている場合でも、体力作りや合併症の予防などのために運動を行うことでさまざまな効果が期待できます。ただし、治療中は身体への負担が大きくなる時期で、無理な運動は逆効果になることもあります。医師から運動を禁止されていなければ、手術前に健康な頃と同じく好きなスポーツを楽しんだり、ジムで体を鍛えたりするのも問題ないとされています。ただし、適度な運動がお勧めで、頑張りすぎない運動ががん治療の副作用を改善する鍵とされています。"
+  },
+  {
+    "question_id": 29,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 29,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 29,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 29,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 30,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 30,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 30,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 30,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "今回の発見は、糖の摂取（あるいは糖の摂取を断つこと）が、がんの発症や成長に影響を及ぼすことを証明するものではない。"
+  },
+  {
+    "question_id": 31,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 31,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 31,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "依存症になることはありません。"
+  },
+  {
+    "question_id": 31,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "がん治療におけるモルヒネの使用では、適切に使用することにより、麻薬中毒になることはありません。"
+  },
+  {
+    "question_id": 32,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 32,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "がん（腫瘍）という病気は、その人ごとに症状のあらわれかたが異なります。また、はっきりした症状があらわれない場合もあります。しかし、痛みや吐き気などの症状があるときには早めに医師や看護師に相談することが推奨されています。"
+  },
+  {
+    "question_id": 32,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "体調不良などの症状が現れる可能性がある。"
+  },
+  {
+    "question_id": 32,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "はい、がんが発見される少し前には、「少し体調が悪いな」と感じる程度の変化があることがあります。これは実は重大なサインである可能性もあります。早期がんが発見される契機として最も多いのが健康診断です。がん細胞が成長する過程で、発熱や咳、倦怠感など風邪に似た症状が現れることがあります。また、胃ガンの場合は食事の摂取量が減少し、胃痛や吐き気が現れることがあります。大腸ガンの場合は便秘や下痢、腹痛などの症状が現れることが一般的です。肝がんも初期の症状がわかりにくいがんですが、倦怠感や全身のかゆみなどが挙げられます。"
+  },
+  {
+    "question_id": 33,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 33,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 33,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "いいえ、決してそんなことはありません。 42.5℃以上にならなくても温熱は様々な効果を“がん”細胞にもたらすことが知られています。"
+  },
+  {
+    "question_id": 33,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "がん細胞は42℃以上の熱を加えると死んでいきます。しかし、私たちが42℃以上のお風呂に入ってもやけどをしないのは、細胞同士がお互いに連絡を取り合っているからです。したがって、熱いお風呂に入るだけでがんがなくなるわけではありません。"
+  },
+  {
+    "question_id": 34,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 34,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 34,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 34,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "いいえ、定期検診を受けてもがんが必ず見つかるわけではありません。"
+  },
+  {
+    "question_id": 35,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 35,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 35,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 35,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "「抗がん剤は米国で使われていない？」という話は完全なデマです。"
+  },
+  {
+    "question_id": 36,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 36,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 36,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 36,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 37,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 37,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 37,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 37,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 38,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "野菜の摂取不足はがんの要因になるとされています。"
+  },
+  {
+    "question_id": 38,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "はい、野菜や果物をとらないことはがんの要因になるとされています。"
+  },
+  {
+    "question_id": 38,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "〇。野菜摂取が少ないと、がんのリスクが高いことが報告されています。"
+  },
+  {
+    "question_id": 38,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "野菜の摂取が少ないと、がんのリスクが高いことが報告されています。特に、食道がん、胃がんの予防のためには、野菜をしっかりとると効果的です。"
+  },
+  {
+    "question_id": 39,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 39,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 39,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "超低周波磁界は「人にとって発がん性があるかもしれない（グループ2B）」、超低周波電界は「人. への発がん性に関して分類できない（グループ3）」と判断されています。"
+  },
+  {
+    "question_id": 39,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "一部の疫学研究では、送電線からの電磁界と小児がんの関連が示唆されていますが、全ての研究がその結果を示しているわけではありません。また、超低周波磁界は「人にとって発がん性があるかもしれない」と判断されていますが、超低周波電界については「人への発がん性に関して分類できない」とされています。したがって、送電線が必ずしもがんを引き起こすとは言えません。"
+  },
+  {
+    "question_id": 40,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 40,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 40,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 40,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 41,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 41,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 41,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 41,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "緩和ケアはがん治療の初期段階から受けることができ、がん治療ができなくなった人だけでなく、生命を脅かす重病を患っている当人とその家族も対象となります。"
+  },
+  {
+    "question_id": 42,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 42,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 42,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "抗がん剤治療を受けないことを選択したが、しばらくそのことが不安の原因になった。"
+  },
+  {
+    "question_id": 42,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "完全にがんを切除できたと考えられても、再発を起こすことがあります。再発を防ぐために抗がん剤治療を行う場合があります。これを「術後補助化学療法」といいます。しかし、「現状で、抗がん剤をしても必ず再発を防げるということはありません。ただ、その再発の可能性をできるだけ低くするためにできることはあります。」とも述べられています。したがって、手術後に抗がん剤治療を受けるかどうかは、再発のリスクをどの程度低減したいかによると考えられます。"
+  },
+  {
+    "question_id": 43,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 43,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 43,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 43,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 44,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 44,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 44,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "保険外診療のため、治療費は全額自費負担となります。"
+  },
+  {
+    "question_id": 44,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "原則的に保険適用外の自由診療となります。"
+  },
+  {
+    "question_id": 45,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 45,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 45,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "造影CT検査、腹部MRI検査、超音波内視鏡検査、内視鏡的逆行性胆管膵管造影などの検査が行われます。"
+  },
+  {
+    "question_id": 45,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "膵臓がんが疑われる場合、血液検査や腹部超音波検査を行います。さらに、異常が見られた場合は、CTやMRIなどの検査が行われます。また、造影CT検査、腹部MRI検査、超音波内視鏡検査、内視鏡的逆行性胆管膵管造影などの検査も行われます。"
+  },
+  {
+    "question_id": 46,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "がんの治療によって髪の毛が脱毛している人が帽子等を着用することが認められました。"
+  },
+  {
+    "question_id": 46,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "はい、がんの治療によって髪の毛が脱毛している人が証明書の写真で帽子等を着用することは認められています。"
+  },
+  {
+    "question_id": 46,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "はい、がんの治療によって髪の毛が脱毛している人が帽子等を着用することは認められます。"
+  },
+  {
+    "question_id": 46,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "がん治療による脱毛や手術痕など、医療上の理由があれば、帽子等を着用した写真の使用が認められています。"
+  },
+  {
+    "question_id": 47,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "薬物療法や放射線治療による脱毛や皮膚の変化、手術（外科治療）によってできる創などがあります。"
+  },
+  {
+    "question_id": 47,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "がんの治療によって起こる外見の変化には、薬物療法や放射線治療による脱毛や皮膚の変化、手術（外科治療）によってできる創などがあります。"
+  },
+  {
+    "question_id": 47,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "がんの治療によっておこる外見の変化には、薬物療法や放射線治療による脱毛や皮膚の変化、手術（外科治療）によってできる創などがあります。"
+  },
+  {
+    "question_id": 47,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "がんの治療によっておこる外見の変化には、薬物療法や放射線治療による脱毛や皮膚の変化、手術（外科治療）によってできる傷、肌色の変化、皮疹、爪の変化、手術による傷跡、乳房の喪失、顔や四肢のむくみ、頭髪や眉・まつ毛、体毛の脱毛、シミやくすみ、手術の痕などがあります。"
+  },
+  {
+    "question_id": 48,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 48,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 48,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 48,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "HLAが完全に一致しないと移植ができないわけではありません。ただし、一部が不一致のドナーから移植を受けた場合は、生着不全のリスクや移植片対宿主が存在します。"
+  },
+  {
+    "question_id": 49,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 49,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 49,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "医療費の負担が増える。"
+  },
+  {
+    "question_id": 49,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "がんのセカンドオピニオンを受けるデメリットは、医療費の負担が増えることです。セカンドオピニオンには公的医療保険制度が適用されないため、費用はすべて自己負担となります。"
+  },
+  {
+    "question_id": 50,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 50,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 50,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 50,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "がん遺伝子パネル検査は誰でも受けられるわけではありません。"
+  },
+  {
+    "question_id": 51,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "可能性がある。"
+  },
+  {
+    "question_id": 51,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "がんの治療による生殖機能への影響について話し合うことが大切です。また、生殖機能や性生活にも影響することもあります。"
+  },
+  {
+    "question_id": 51,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "治療ごとの生殖機能への影響については、Insufficient information."
+  },
+  {
+    "question_id": 51,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "はい、生殖器以外のがんの治療を行った場合も、生殖機能に影響することがあります。"
+  },
+  {
+    "question_id": 52,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 52,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 52,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "可能です。 白血病、悪性リンパ腫などの血液腫瘍の場合はご提供いただけません。"
+  },
+  {
+    "question_id": 52,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "がんを患っている人でも基本的には臓器提供が可能です。ただし、眼内へのがん転移がある場合や、白血病、悪性リンパ腫などの血液腫瘍の場合は提供いただけません。"
+  },
+  {
+    "question_id": 53,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 53,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 53,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 53,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 54,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 54,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 54,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 54,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 55,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 55,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "がんという病気そのものが、人から人に直接うつることはありません。"
+  },
+  {
+    "question_id": 55,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 55,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "がん細胞が他人にうつって、がんになってしまうことはありません。輸血によるがんの転移の報告はありません。"
+  },
+  {
+    "question_id": 56,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 56,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 56,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 56,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 57,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 57,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 57,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 57,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "接種ががん等の健康問題に影響を与えるという情報は提供されていません。「がんに対する免疫には影響を与えない」との情報があります。"
+  },
+  {
+    "question_id": 58,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 58,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 58,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "体をアルカリ性にすればがんが治る？ - 酸性環境にある腫瘍の成長や転移を促進することでがんは悪性化するため、体をアルカリ性にすることはがんの抑制につながる可能性があると示唆されています。"
+  },
+  {
+    "question_id": 58,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "体をアルカリ性にするとガンは育ちにくくなるとされています。しかし、アルカリ塩の摂取が癌を治癒することを実証したランダム化臨床試験は現在までにはありません。"
+  },
+  {
+    "question_id": 59,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 59,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 59,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "信頼性は100%ではない。"
+  },
+  {
+    "question_id": 59,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "信頼性の高いがん検査キットとして、デメカル血液検査キットがおすすめです。厚生労働省より「組み合わせ医療機器」として正式に承認されています。"
+  },
+  {
+    "question_id": 60,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 60,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 60,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Yes, if the body gets cold due to air conditioning, the immune system weakens and it becomes easier to develop cancer."
+  },
+  {
+    "question_id": 60,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "はい、エアコンにより体が冷えて体温が下がると、免疫力が低下し感染を引き起こす可能性があります。また、体が冷えて低体温になると、酵素の働きが低下してがんのもとになる遺伝子の修復が間に合わなくなる可能性があります。体温が下がると血流が悪くなり、免疫力も低下し、体内に異物を発見しても、素早く駆除してくれる白血球を集めにくくなり、ウイルスや細菌に負けて発病しやすくなるとも言われています。"
+  },
+  {
+    "question_id": 61,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 61,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 61,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 61,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 62,
+    "system": "CIS",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 62,
+    "system": "CIS",
+    "model_label": "gpt4",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 62,
+    "system": "Google",
+    "model_label": "gpt35",
+    "response": "Insufficient information."
+  },
+  {
+    "question_id": 62,
+    "system": "Google",
+    "model_label": "gpt4",
+    "response": "現代医学で「治らない」と言われた病気が「治る」というような、奇跡を起こすまでの力が温泉にあるとは、到底信じられません。しかし、湯治は、自然治癒力を高める効果が期待できます。病気や体調を医学の力ではなく、人間の持つ本来の状態に戻そうする力を温泉の力を借りながら高めます。玉川温泉は多くのがん患者に訪れられ、一部の人々は効果を報告していますが、全てのがん患者に効果があるわけではない可能性があります。"
+  }
+]

@@ -1,0 +1,5 @@
+System,Model,Faithfulness (%)
+CIS,gpt35,92.31
+CIS,gpt4,100.0
+Google,gpt35,91.18
+Google,gpt4,97.83

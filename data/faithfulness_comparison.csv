@@ -1,0 +1,5 @@
+system,model_label,Base paper (%),Our system (%)
+CIS,gpt35,93.3,92.31
+CIS,gpt4,100.0,100.0
+Google,gpt35,72.0,91.18
+Google,gpt4,73.3,97.83
